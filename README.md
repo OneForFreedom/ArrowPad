@@ -2,8 +2,7 @@
 This is arrowpad, Made for people who Use a 60% but need to use arrow keys and the 9 keys above it.
 
 ## Yummy Candy for ya eyes!
-![](Images/Screenshot%202025-08-29%20113445.png)
-![](Images/Screenshot%202025-08-29%20113517.png)
+
 ![](Images/Screenshot%202025-08-31%20100419.png)
 ![](Images/Screenshot%202025-08-31%20100435.png)
 ![](Images/Screenshot%202025-08-31%20100448.png)
@@ -16,6 +15,8 @@ This is arrowpad, Made for people who Use a 60% but need to use arrow keys and t
 ![](Images/Screenshot%202025-08-31%20101148.png)
 ![](Images/Screenshot%202025-08-31%20101158.png)
 ![](Images/Screenshot%202025-08-31%20101202.png)
+![](Images/Screenshot%202025-08-29%20113445.png)
+![](Images/Screenshot%202025-08-29%20113517.png) 
 
 ## BOM (Bill of Materials)
 
